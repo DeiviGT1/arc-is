@@ -1,0 +1,39 @@
+,neighborhood,neighborhood_ascii,lat,lng,city_name,city_id,state_name,state_id,source,timezone,zips,county_fips,county_name,id,length
+1576,Flagami,Flagami,25.77039,-80.28443,Miami,1840015149,Florida,FL,polygon,America/New_York,33144 33134 33126,12086,Miami-Dade,184001514911160,17
+1529,Cbd,Cbd,25.77428,-80.19101,Miami,1840015149,Florida,FL,polygon,America/New_York,33132 33131 33130,12086,Miami-Dade,184001514911113,17
+1516,Palm Grove,Palm Grove,25.83281,-80.18627,Miami,1840015149,Florida,FL,polygon,America/New_York,33138 33137,12086,Miami-Dade,184001514911100,11
+1600,La Pastorita,La Pastorita,25.76102,-80.25099,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33135,12086,Miami-Dade,184001514911184,11
+1582,King Heights,King Heights,25.83018,-80.21566,Miami,1840015149,Florida,FL,polygon,America/New_York,33142 33127,12086,Miami-Dade,184001514911166,11
+1583,Media Art Entertainment,Media Art Entertainment,25.78912,-80.19322,Miami,1840015149,Florida,FL,polygon,America/New_York,33136 33132,12086,Miami-Dade,184001514911167,11
+1586,East Little Havana,East Little Havana,25.77031,-80.20826,Miami,1840015149,Florida,FL,polygon,America/New_York,33130 33128,12086,Miami-Dade,184001514911170,11
+1587,Lemon City/Little Haiti,Lemon City/Little Haiti,25.82859,-80.19282,Miami,1840015149,Florida,FL,polygon,America/New_York,33138 33137,12086,Miami-Dade,184001514911171,11
+1588,Bayfront,Bayfront,25.7759,-80.18639,Miami,1840015149,Florida,FL,polygon,America/New_York,33132 33131,12086,Miami-Dade,184001514911172,11
+1593,Lummus Park,Lummus Park,25.77624,-80.20185,Miami,1840015149,Florida,FL,polygon,America/New_York,33130 33128,12086,Miami-Dade,184001514911177,11
+1602,Orchard Villa,Orchard Villa,25.82651,-80.21557,Miami,1840015149,Florida,FL,polygon,America/New_York,33142 33127,12086,Miami-Dade,184001514911186,11
+1570,Santa Clara,Santa Clara,25.80558,-80.21481,Miami,1840015149,Florida,FL,polygon,America/New_York,33142 33127,12086,Miami-Dade,184001514911154,11
+1603,Allapattah Industrial District,Allapattah Industrial District,25.79661,-80.22252,Miami,1840015149,Florida,FL,polygon,America/New_York,33142 33127,12086,Miami-Dade,184001514911187,11
+1605,Douglas Park,Douglas Park,25.74236,-80.24802,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33133,12086,Miami-Dade,184001514911189,11
+1608,Edison,Edison,25.83039,-80.20123,Miami,1840015149,Florida,FL,polygon,America/New_York,33150 33127,12086,Miami-Dade,184001514911192,11
+1609,Civic Center,Civic Center,25.79048,-80.21478,Miami,1840015149,Florida,FL,polygon,America/New_York,33136 33125,12086,Miami-Dade,184001514911193,11
+1612,Citrus Grove,Citrus Grove,25.77254,-80.23093,Miami,1840015149,Florida,FL,polygon,America/New_York,33135 33125,12086,Miami-Dade,184001514911196,11
+1613,West Grapeland Heights,West Grapeland Heights,25.78607,-80.26007,Miami,1840015149,Florida,FL,polygon,America/New_York,33125 33126,12086,Miami-Dade,184001514911197,11
+1575,Government Center,Government Center,25.7762,-80.19677,Miami,1840015149,Florida,FL,polygon,America/New_York,33130 33128,12086,Miami-Dade,184001514911159,11
+1567,Roads,Roads,25.75607,-80.20955,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33129,12086,Miami-Dade,184001514911151,11
+1517,Edgewater,Edgewater,25.80107,-80.18932,Miami,1840015149,Florida,FL,polygon,America/New_York,33137 33132,12086,Miami-Dade,184001514911101,11
+1562,Little River Central,Little River Central,25.84425,-80.19907,Miami,1840015149,Florida,FL,polygon,America/New_York,33150 33138,12086,Miami-Dade,184001514911146,11
+1518,79Th Street,79Th Street,25.84839,-80.19495,Miami,1840015149,Florida,FL,polygon,America/New_York,33150 33138,12086,Miami-Dade,184001514911102,11
+1519,Riverfront,Riverfront,25.77067,-80.19535,Miami,1840015149,Florida,FL,polygon,America/New_York,33131 33130,12086,Miami-Dade,184001514911103,11
+1520,Silver Bluff,Silver Bluff,25.74654,-80.23089,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33133,12086,Miami-Dade,184001514911104,11
+1528,Omni/Pac,Omni/Pac,25.78932,-80.1882,Miami,1840015149,Florida,FL,polygon,America/New_York,33139 33132,12086,Miami-Dade,184001514911112,11
+1530,Midtown,Midtown,25.80801,-80.1934,Miami,1840015149,Florida,FL,polygon,America/New_York,33137 33127,12086,Miami-Dade,184001514911114,11
+1539,Southeast Overtown,Southeast Overtown,25.7841,-80.19915,Miami,1840015149,Florida,FL,polygon,America/New_York,33101 33136,12086,Miami-Dade,184001514911123,11
+1542,Auburndale,Auburndale,25.77199,-80.24727,Miami,1840015149,Florida,FL,polygon,America/New_York,33135 33125,12086,Miami-Dade,184001514911126,11
+1545,Vizcaya,Vizcaya,25.74323,-80.21301,Miami,1840015149,Florida,FL,polygon,America/New_York,33133 33129,12086,Miami-Dade,184001514911129,11
+1546,Brickell Village,Brickell Village,25.7655,-80.19351,Miami,1840015149,Florida,FL,polygon,America/New_York,33131 33130,12086,Miami-Dade,184001514911130,11
+1549,Highland Park,Highland Park,25.7856,-80.21077,Miami,1840015149,Florida,FL,polygon,America/New_York,33136 33125,12086,Miami-Dade,184001514911133,11
+1551,Watson Island,Watson Island,25.78453,-80.17498,Miami,1840015149,Florida,FL,polygon,America/New_York,33139 33132,12086,Miami-Dade,184001514911135,11
+1552,Little River Industrial District,Little River Industrial District,25.83779,-80.19118,Miami,1840015149,Florida,FL,polygon,America/New_York,33138 33137,12086,Miami-Dade,184001514911136,11
+1555,Shenandoah North,Shenandoah North,25.76174,-80.22633,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33135,12086,Miami-Dade,184001514911139,11
+1559,Hadley Park,Hadley Park,25.81858,-80.21534,Miami,1840015149,Florida,FL,polygon,America/New_York,33142 33127,12086,Miami-Dade,184001514911143,11
+1560,Parkwest,Parkwest,25.78266,-80.19301,Miami,1840015149,Florida,FL,polygon,America/New_York,33136 33132,12086,Miami-Dade,184001514911144,11
+1616,Parkdale North,Parkdale North,25.76133,-80.24281,Miami,1840015149,Florida,FL,polygon,America/New_York,33145 33135,12086,Miami-Dade,184001514911200,11
