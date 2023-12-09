@@ -24,10 +24,12 @@ def clean_data(df, type='float'):
   return df
 
 def transform_numbers(df, column):
+    df[column] = df[column].astype(str)
     df[column] = df[column].str.replace('.', '')
     df[column] = df[column].str.replace(',', '.')
     df[column] = df[column].str.replace(' ', '')
     df[column] = df[column].str.replace('-', '')
+    df[column] = df[column].str.replace('$', '')
     df[column] = df[column].str.replace('R\$', '')
     df[column] = df[column].str.replace('%', '')
     df[column] = df[column].str.replace('R', '')
