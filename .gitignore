@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 .DS_Store
-*.env
 *.gz
 venv
 prueba.*
+.env
+.ipynb_checkpoints
+
